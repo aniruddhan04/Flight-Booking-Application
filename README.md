@@ -1,6 +1,6 @@
 # Flight Booking Application
 
-A Java Swing–based GUI application for searching, booking, and managing flights.
+A JavaFX–based GUI application for searching, booking, and managing flights.
 
 ---
 
