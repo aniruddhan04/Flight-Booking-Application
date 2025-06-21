@@ -21,16 +21,12 @@ A JavaFX–based GUI application for searching, booking, and managing flights.
 
 ## Installation
 
-1. **Clone the repository**  
+**Clone the repository**  
    ```bash
    git clone https://github.com/aniruddhan04/Flight-Booking-Application.git
    cd Flight-Booking-Application
    ```
 
-2. **Build with Ant**  
-   ```bash
-   ant compile
-   ```
 
 ---
 
