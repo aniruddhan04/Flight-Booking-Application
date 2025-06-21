@@ -7,7 +7,7 @@ A JavaFX–based GUI application for searching, booking, and managing flights.
 ## Prerequisites
 
 - **Java SE Development Kit (JDK)** — Java SE 8 or newer installed  
-- **NetBeans IDE** (optional) — recommended for easier development  
+- **NetBeans IDE** — required to run and develop the project  
 - **JavaFX SDK** — required for running the GUI  
 
 > **Note:** You need to download and install the above tools separately.  
