@@ -32,7 +32,7 @@ A JavaFX–based GUI application for searching, booking, and managing flights.
 
 ## Usage
 
-- **Run in NetBeans IDE** (required)  
+- **Run in NetBeans IDE**
   1. Open NetBeans IDE  
   2. File → Open Project → select `Flight-Booking-Application`  
   3. Run the `Main` class in the package  
