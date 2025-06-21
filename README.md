@@ -32,18 +32,12 @@ A JavaFX–based GUI application for searching, booking, and managing flights.
 
 ## Usage
 
-- **Run via Ant**  
-  ```bash
-  ant run
-  ```
-  This will launch the Swing GUI where you can:
-  - Search available flights  
-  - Book or cancel reservations  
-  - View and manage your bookings
+- **Run in NetBeans IDE** (required)  
+  1. Open NetBeans IDE  
+  2. File → Open Project → select `Flight-Booking-Application`  
+  3. Run the `Main` class in the package  
 
-- **Run in NetBeans** (optional)  
-  1. File → Open Project → select the `Flight-Booking-Application` folder  
-  2. Run the `Main` class in the `coe528.lab1` package  
+> The project must be run through the IDE to ensure proper JavaFX SDK configuration.
 
 ---
 
