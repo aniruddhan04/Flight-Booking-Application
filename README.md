@@ -7,8 +7,7 @@ A JavaFX–based GUI application for searching, booking, and managing flights.
 ## Features
 
 - **Flight Search**: Filter by origin, destination, date  
-- **Booking Management**: Create, view, cancel reservations  
-- **Data Persistence**: In-memory storage  
+- **Booking Management**: Create, view, cancel reservations   
 - **Input Validation**: Prevent invalid bookings and duplicate entries  
 
 ---
